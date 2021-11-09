@@ -1,5 +1,5 @@
 # TitipPaket
-I'm sorry I can't share the code on github because this project is one of the projects where I am part-time, i just can share some screenshot from the website.
+I'm sorry I can't share the code on github because this project is one of the projects where I am part-time, i just can share some screenshot from the website. The project is developed with Next.js (ReactJs framework), and we use Ant Design for React UI library
 
 Landing Page
 ![image](https://user-images.githubusercontent.com/73683623/140965435-227752b3-2905-4988-9016-07f8963a5462.png)
